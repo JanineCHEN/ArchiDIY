@@ -1,5 +1,7 @@
 # Architectural Design Image dYeing (ArchiDIY)
-This project presents a framework for editing architectural design images.
+> This is the official repo for the paper: [FROM EXPLORATION TO INTERPRETATION Adopting Deep Representation Learning Models to Latent Space Interpretation of Architectural Design Alternatives](https://caadria2021.org/wp-content/uploads/2021/03/caadria2021_038.pdf), which offers a framework for editing architectural design images.
+
+![Overview](imgs/paper38-04.gif)
 
 # Citation
 If you find the code in our research useful, please consider cite:
