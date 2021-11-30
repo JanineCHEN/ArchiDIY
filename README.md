@@ -19,4 +19,4 @@ If you find the code in our research useful, please consider cite:
 ```
 
 # Acknowledgments
-Part of the code is inspired by <a href="https://github.com/genforce/higan">genforce/higan</a> and <a href="https://github.com/genforce/interfacegan">genforce/interfacegan</a>.
+Part of the code is inspired by <a href="https://github.com/NVlabs/stylegan2">NVlabs/stylegan2</a>, <a href="https://github.com/genforce/higan">genforce/higan</a> and <a href="https://github.com/genforce/interfacegan">genforce/interfacegan</a>.
